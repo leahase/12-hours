@@ -1,6 +1,6 @@
 @use '../scss/buttons';
 @use '../scss/variables';
-
+@use "~@fortawesome/fontawesome-free/scss/fontawesome";
 
 .hero-image {
     background-image: url("/images/Background.png");
