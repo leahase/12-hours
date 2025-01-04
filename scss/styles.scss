@@ -468,3 +468,23 @@ align-items: center;
         font-size: 12px;
     }
 }
+// houses
+@media (max-width: 768px) {
+    .house-image {
+        height: 50vh;
+    }
+    .spain-container {
+        width: 60%;
+        margin-left: 10%;
+    }
+}
+
+@media (max-width: 480px) {
+    .house-image {
+        height: 70vh;
+    }
+    .spain-container {
+        width: 50%;
+        margin-left: 0;
+    }
+}
