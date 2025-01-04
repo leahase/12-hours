@@ -8690,3 +8690,12 @@ readers do not read off random characters that represent icons */
     text-align: center;
   }
 }
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    gap: 0px;
+  }
+  .navbar a.navbar-a {
+    font-size: 12px;
+  }
+}
