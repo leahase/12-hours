@@ -488,3 +488,43 @@ align-items: center;
         margin-left: 0;
     }
 }
+
+// sam
+/* SAM SECTION */
+.sam-image {
+    background-image: url('/images/sam-background.png');
+    background-size: cover;
+    background-position: center;
+    height: 700px; 
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+}
+
+@media (max-width: 768px) {
+    .sam-image {
+        height: 100%;
+    }
+    .sam-container {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+  
+    .sam-container-text p {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 480px) {
+    .sam-image {
+        height: 400px;
+    }
+    .sam-container {
+        flex-direction: column;
+        align-items: center;
+        
+    }
+   
+}
