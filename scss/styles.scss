@@ -26,10 +26,11 @@
             margin-top: 0px;
             width: 372px;
             height: 67px;
+            font-family: "Josefin Sans", serif;
             
         .hero-heading {
             font-size: 48px;
-            
+            font-family: "Josefin Sans", serif;
             font-weight: bold;
             color: white;
             margin-bottom: 0;
@@ -37,6 +38,7 @@
         .hero-text-paragraph {
             font-size: 22px;
             color: white;
+            font-family: "Josefin Sans", serif;
         }
     }
 
@@ -55,7 +57,7 @@
 
         &::placeholder {
             text-align: center;
-       
+            font-family: "Josefin Sans", serif;
         }
     }
   
@@ -73,7 +75,7 @@
     justify-content: center;
     align-items: center;
     gap: 20px;
-    
+    font-family: "Josefin Sans", serif;
     
    
 
@@ -107,7 +109,7 @@
     justify-content: space-around;
     align-items: center; 
     gap: 20px; 
-    
+    font-family: "Josefin Sans", serif;
     width: 100vw;
 
     .choose-container-text {
@@ -136,7 +138,7 @@
             margin-bottom: 10px;
             line-height: 1.6;
             color:#E8E8E8;
-           
+            font-family: "Josefin Sans", serif;
         
             
         }
@@ -186,7 +188,7 @@
         flex-direction: column;
         margin-top: 80px;
         z-index: 10;
-      
+        font-family: "Josefin Sans", serif;
 
     }
     .glas, .check, .thumbs {
@@ -238,7 +240,7 @@
     padding: 20px;
     justify-content: center;
     align-items: flex-start;
-
+    font-family: "Josefin Sans", serif;
     
 
     p {
@@ -318,7 +320,7 @@ align-items: center;
         margin-right: 20px;
         .quote {
             font-size: 40px;
-          
+            color: #5474FD;
             margin-right: 10px;;
         }
 
@@ -334,6 +336,8 @@ align-items: center;
 }
 .sam-heading {
     text-align: center;
+    color:#E8E8E8;
+    font-size: 30px;
     
 }
 

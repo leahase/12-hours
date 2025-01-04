@@ -5,6 +5,7 @@
   color: white;
   font-size: 14px;
   border: none;
+  font-family: "Josefin Sans", serif;
 }
 
 .submit-btn:hover {
@@ -8316,9 +8317,11 @@ readers do not read off random characters that represent icons */
   margin-top: 0px;
   width: 372px;
   height: 67px;
+  font-family: "Josefin Sans", serif;
 }
 .hero-image .hero-container .hero-text .hero-heading {
   font-size: 48px;
+  font-family: "Josefin Sans", serif;
   font-weight: bold;
   color: white;
   margin-bottom: 0;
@@ -8326,6 +8329,7 @@ readers do not read off random characters that represent icons */
 .hero-image .hero-container .hero-text .hero-text-paragraph {
   font-size: 22px;
   color: white;
+  font-family: "Josefin Sans", serif;
 }
 
 .form-container {
@@ -8341,6 +8345,7 @@ readers do not read off random characters that represent icons */
 }
 .form-container input::placeholder {
   text-align: center;
+  font-family: "Josefin Sans", serif;
 }
 .form-container .glas-top {
   margin-left: 10px;
@@ -8354,6 +8359,7 @@ readers do not read off random characters that represent icons */
   justify-content: center;
   align-items: center;
   gap: 20px;
+  font-family: "Josefin Sans", serif;
 }
 .navbar a.navbar-a {
   font-size: 23px;
@@ -8382,6 +8388,7 @@ readers do not read off random characters that represent icons */
   justify-content: space-around;
   align-items: center;
   gap: 20px;
+  font-family: "Josefin Sans", serif;
   width: 100vw;
 }
 .choose-container .choose-container-text {
@@ -8406,6 +8413,7 @@ readers do not read off random characters that represent icons */
   margin-bottom: 10px;
   line-height: 1.6;
   color: #E8E8E8;
+  font-family: "Josefin Sans", serif;
 }
 .choose-container .choose-container-images {
   display: flex;
@@ -8445,6 +8453,7 @@ readers do not read off random characters that represent icons */
   flex-direction: column;
   margin-top: 80px;
   z-index: 10;
+  font-family: "Josefin Sans", serif;
 }
 .container-icons .glas, .container-icons .check, .container-icons .thumbs {
   display: flex;
@@ -8489,6 +8498,7 @@ readers do not read off random characters that represent icons */
   padding: 20px;
   justify-content: center;
   align-items: flex-start;
+  font-family: "Josefin Sans", serif;
 }
 .spain-container p {
   color: #E8E8E8;
@@ -8566,6 +8576,7 @@ readers do not read off random characters that represent icons */
 }
 .sam-container .sam-container-text p .quote {
   font-size: 40px;
+  color: #5474FD;
   margin-right: 10px;
 }
 .sam-container .sam-container-text h3 {
@@ -8577,6 +8588,8 @@ readers do not read off random characters that represent icons */
 
 .sam-heading {
   text-align: center;
+  color: #E8E8E8;
+  font-size: 30px;
 }
 
 .footer-container {
