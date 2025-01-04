@@ -1,0 +1,58 @@
+.submit-btn {
+  color: blue;
+}
+
+.hero-image {
+  background-image: url("/images/Background.png");
+  background-size: cover;
+  background-position: center;
+  height: 840px;
+}
+.hero-image .hero-container {
+  position: absolute;
+  left: 50%;
+  top: 30%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: auto;
+  margin-bottom: 0;
+}
+.hero-image .hero-container .hero-text {
+  margin-top: 0px;
+  width: 372px;
+  height: 67px;
+}
+.hero-image .hero-container .hero-text .hero-heading {
+  font-size: 48px;
+  font-family: "Josefin Sans", serif;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 0;
+}
+.hero-image .hero-container .hero-text .hero-text-paragraph {
+  font-size: 22px;
+  color: white;
+}
+
+.form-container {
+  width: 653px;
+  height: 63px;
+  margin-top: 40px;
+  display: flex;
+  margin-top: 80px;
+}
+.form-container input {
+  width: 500px;
+  height: 63px;
+}
+.form-container input::placeholder {
+  text-align: center;
+  font-family: "Josefin Sans", serif;
+}
+.form-container .glas-top {
+  margin-left: 10px;
+}
