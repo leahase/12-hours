@@ -11,6 +11,7 @@
 .submit-btn:hover {
   color: #5474FD;
   background-color: aliceblue;
+  cursor: pointer;
 }
 
 /*!
@@ -8485,6 +8486,10 @@ body {
 }
 .container-icons .icon-div-thumbs {
   color: #00A2FF;
+}
+.container-icons .icon-div-thumbs:hover, .container-icons .icon-div-check:hover, .container-icons .icon-div-glas:hover {
+  color: #441247;
+  cursor: pointer;
 }
 .container-icons .round {
   position: absolute;

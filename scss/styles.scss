@@ -228,6 +228,11 @@ body {
         color: #00A2FF;
     }
 
+    .icon-div-thumbs:hover,.icon-div-check:hover, .icon-div-glas:hover {
+        color: #441247;
+        cursor: pointer;
+    }
+
     .round {
         position: absolute;
         left: 50%;
@@ -461,6 +466,7 @@ align-items: center;
             margin-bottom: 10%;
         }
     }
+    
 }
 // icons
 @media (max-width: 768px) {
